@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
 
 
+
 // newbr2에 추가한 것
 // TEST입니다.
+// github에서 수정된 내용입니다.
+// newbr2에서 다시 수정한 내용입니다.
 
 
 void main() {
@@ -16,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo TEST!!',
       theme: ThemeData(
         // This is the theme of your application.
         //
