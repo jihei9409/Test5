@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//newbr2에 추가한 것
+
 void main() {
   runApp(const MyApp());
 }
